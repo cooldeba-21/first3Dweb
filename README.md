@@ -1,10 +1,7 @@
 # Hi there 👋, I'm Your Name  
 
 ## 🚀 About Me
-- 🎓 Sophomore Computer Science student  
-- 💻 Passionate about Web Development and AI  
-- 🌱 Currently learning MERN stack  
-- ⚡ Love building projects that solve real problems  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=👨‍💻+CS+Student+%7C+Web+Developer;🌱+Learning+MERN+Stack;⚡+Building+Cool+Projects;💡+Love+Problem+Solving)](https://git.io/typing-svg)
 
 ---
 
